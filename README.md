@@ -1,2 +1,3 @@
 # WGG
-An test word guessing game
+A test word guessing game
+This repository is for test purpose.
